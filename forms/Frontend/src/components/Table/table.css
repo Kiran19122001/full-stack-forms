@@ -1,0 +1,42 @@
+.table-container {
+    color: #fff;
+    margin-top: 20px;
+    width: 700px;
+  }
+  
+  .styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+  }
+  
+  .styled-table th, .styled-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .styled-table th {
+    background-color: #333;
+    color: #fff;
+  }
+
+
+.logout-button {
+    background-color: #dc3545; 
+    color: #fff; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+    margin-bottom: 20px;
+    
+  }
+  
+  .logout-button:hover {
+    background-color: #c82333; 
+  }
+  
+  

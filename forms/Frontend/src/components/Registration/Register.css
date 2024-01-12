@@ -1,0 +1,63 @@
+.form-conteiner {
+    height: 620px;
+    width: 600px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    background-color: #fff;
+
+}
+
+
+
+.heading {
+    color: #fff;
+    text-align: center;
+    border: 2px solid rgb(17, 204, 148);
+    background: rgb(17, 204, 148);
+    width: 350px;
+    position: relative;
+    left: 120px;
+    top: 40px;
+    border-radius: 10px;
+    padding: 5px 1px 10px 1px;
+}
+
+.form-label {
+    font-size: 18px;
+    font-weight: 550;
+    font-style: italic;
+}
+
+.field {
+    border-radius: 5px;
+    border: 1px solid rgb(27, 153, 203);
+    padding: 3px 10px;
+    font-weight: 550;
+    margin-bottom: 5px;
+
+}
+
+.signupbtn {
+    margin-top: 15px;
+    width: 200px;
+    text-align: center;
+    align-self: center;
+    color: #fff;
+    background: #000;
+    transition: transform 0.3s ease;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.signupbtn:hover {
+    transform: scale(1.05);
+    background: rgb(79, 79, 255);
+}
+
+.to-login-anc {
+    font-weight: 550;
+    margin-top: 5px;
+}
